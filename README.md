@@ -26,3 +26,10 @@ If you are developing a production application, we recommend updating the config
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
 # s30-reactjs-test
+
+After cloning the repository please enter the following in the terminal to run it on your local server. 
+1. npm i
+2. npm run dev
+
+You may check as well the live app on this url:
+https://s30-reactjs-test.vercel.app/
